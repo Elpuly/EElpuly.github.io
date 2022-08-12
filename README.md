@@ -5,5 +5,5 @@
 - Este es la page 1
 - Este es la page 2
 
-# Quienes somos
+ Quienes somos
 - ...

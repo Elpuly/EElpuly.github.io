@@ -9,3 +9,4 @@ pagina del proyecto
 otras secciones
  Quienes somos
 - ...
+- pie de pagina
